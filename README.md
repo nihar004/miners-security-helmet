@@ -69,3 +69,15 @@ This project presents an **IoT-enabled safety helmet** designed to enhance worke
 * **Real-Time Monitoring**: View sensor data on the ThingSpeak dashboard.
 * **Emergency Alerts**: Test hazard detection features to trigger SMS notifications via Twilio.
 * **Two-Way Communication**: Test voice calls using the SIM800H module.
+
+
+### License
+This project is licensed under the MIT License.
+
+### Acknowledgments
+Special thanks to the team:
+
+* **Nihar Singla**
+* **Team Members**: Piyush Garg, Manan Khandelwal, Bhavesh Choudhary, Divyanshu Bansal
+* **Mentor**: Dr. Sandeep
+
