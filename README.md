@@ -72,7 +72,7 @@ This project presents an **IoT-enabled safety helmet** designed to enhance worke
 
 
 ### License
-This project is licensed under the [MIT License]([https://opensource.org/licenses/MIT](https://github.com/nihar004/miners-security-helmet/blob/main/LICENSE)).
+This project is licensed under the [MIT License](https://github.com/nihar004/miners-security-helmet/blob/main/LICENSE).
 
 ### Acknowledgments
 Special thanks to the team:
