@@ -73,6 +73,10 @@ This project presents an **IoT-enabled safety helmet** designed to enhance worke
 ### Code
 The complete source code for the project is located in the `src/helmet_code.ino` file. [Click here]() to view the code.
 
+### Contributions
+**Contributions are welcome!**
+If you'd like to improve this project, feel free to fork the repository, make your changes, and submit a pull request. For major changes, please open an issue to discuss what you would like to change.
+
 ### License
 This project is licensed under the [MIT License](https://github.com/nihar004/miners-security-helmet/blob/main/LICENSE).
 
@@ -81,5 +85,5 @@ Special thanks to the team:
 
 * **Nihar Singla**
 * **Team Members**: Piyush Garg, Manan Khandelwal, Bhavesh Choudhary, Divyanshu Bansal
-* **Mentor**: Dr. Sandeep
+* **Mentor**: Dr. Sandeep [Contact via email](mailto:sandeep.kumar@bmu.edu.in )
 
