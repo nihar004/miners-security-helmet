@@ -70,6 +70,8 @@ This project presents an **IoT-enabled safety helmet** designed to enhance worke
 * **Emergency Alerts**: Test hazard detection features to trigger SMS notifications via Twilio.
 * **Two-Way Communication**: Test voice calls using the SIM800H module.
 
+### Code
+The complete source code for the project is located in the `src/helmet_code.ino` file. [Click here]() to view the code.
 
 ### License
 This project is licensed under the [MIT License](https://github.com/nihar004/miners-security-helmet/blob/main/LICENSE).
