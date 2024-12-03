@@ -83,7 +83,7 @@ This project is licensed under the [MIT License](https://github.com/nihar004/min
 ### Acknowledgments
 Special thanks to the team:
 
-* **Nihar Singla**
+* **Nihar Singla** [Contact via email](mailto:niharsingla001@email.com  "Click to send an email to niharsingla001@email.com ")
 * **Team Members**: Piyush Garg, Manan Khandelwal, Bhavesh Choudhary, Divyanshu Bansal
-* **Mentor**: Dr. Sandeep Contact via [email](mailto:sandeep.kumar@bmu.edu.in  "Click to send an email to sandeep.kumar@bmu.edu.in ")
+* **Mentor**: Dr. Sandeep [Contact via email](mailto:sandeep.kumar@bmu.edu.in  "Click to send an email to sandeep.kumar@bmu.edu.in ")
 
