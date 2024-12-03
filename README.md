@@ -3,6 +3,9 @@
 ## Overview
 
 This project presents an **IoT-enabled safety helmet** designed to enhance worker safety in hazardous environments such as mines and industrial workplaces. The helmet integrates various sensors, communication modules, and real-time data monitoring and alert systems to provide comprehensive protection and proactive safety measures.
+![image](https://github.com/user-attachments/assets/c212836c-91da-45d4-bacd-1ce4b56aba93)
+![image](https://github.com/user-attachments/assets/b1233868-9cb3-4925-870e-91e901eed001)
+
 
 ## Features
 
