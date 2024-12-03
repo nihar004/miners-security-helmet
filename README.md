@@ -54,3 +54,10 @@ This project presents an **IoT-enabled safety helmet** designed to enhance worke
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/miners-safety-helmet.git
+2. Open helmet_code.ino in the Arduino IDE.
+3. Update the following placeholders in the code:
+   *Wi-Fi credentials (ssid, password)
+   *ThingSpeak API key (thingSpeakAPIKey)
+   *Twilio credentials (accountSID, authToken, twilioNumber, recipientNumber).
+4. Upload the code to your ESP32.
+5. Assemble the hardware components and power on the helmet.
