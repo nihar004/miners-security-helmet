@@ -85,5 +85,5 @@ Special thanks to the team:
 
 * **Nihar Singla**
 * **Team Members**: Piyush Garg, Manan Khandelwal, Bhavesh Choudhary, Divyanshu Bansal
-* **Mentor**: Dr. Sandeep [Contact via email](mailto:sandeep.kumar@bmu.edu.in )
+* **Mentor**: Dr. Sandeep Contact via [email](mailto:sandeep.kumar@bmu.edu.in  "Click to send an email to sandeep.kumar@bmu.edu.in ")
 
