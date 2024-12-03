@@ -74,7 +74,7 @@ This project presents an **IoT-enabled safety helmet** designed to enhance worke
 * **Two-Way Communication**: Test voice calls using the SIM800H module.
 
 ### Code
-The complete source code for the project is located in the `src/helmet_code.ino` file. [Click here]() to view the code.
+The complete source code for the project is located in the `src/helmet_code.ino` file. [Click here](https://github.com/nihar004/miners-security-helmet/blob/main/src/helmet_code.ino) to view the code.
 
 ### Contributions
 **Contributions are welcome!**
